@@ -1,0 +1,26 @@
+{
+  "name": "mu-jquery-serialize-object",
+  "homepage": "https://github.com/mu-lib/mu-jquery-serialize-object",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mu-lib/mu-jquery-serialize-object.git"
+  },
+  "authors": [
+    "Mikael Karon"
+  ],
+  "description": "Micro jQuery Serialize Object",
+  "main": "jquery.serializeObject.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "requirejs": "~2"
+  }
+}
